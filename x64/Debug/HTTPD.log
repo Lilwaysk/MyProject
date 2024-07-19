@@ -1,0 +1,30 @@
+﻿  httpd.cpp
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(34,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(92,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(95,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(98,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(101,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(91,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(94,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(97,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(100,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(104,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(114,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(117,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(123,26): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(126,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(113,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(116,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(122,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(125,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(143,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(145,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(168,13): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(182,6): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(206,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(208,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(223,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(241,20): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(288,19): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\11014\source\repos\HTTPD\HTTPD\httpd.cpp(293,38): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+  HTTPD.vcxproj -> C:\Users\11014\source\repos\HTTPD\x64\Debug\HTTPD.exe
